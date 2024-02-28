@@ -1,0 +1,10 @@
+google-auth==2.6.6
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+keras==2.8.0
+Keras-Preprocessing==1.1.2
+matplotlib==3.5.2
+numpy==1.22.3
+tensorflow==2.8.0
+tensorflow-io-gcs-filesystem==0.25.0
+tf-estimator-nightly==2.8.0.dev2021122109
